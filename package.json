@@ -1,6 +1,6 @@
 {
   "name": "newman-reporter-allure",
-  "version": "1.0.7",
+  "version": "1.1.0",
   "description": "newman reporter for Allure",
   "main": "index.js",
   "scripts": {
@@ -17,12 +17,13 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/ervirendersingh/newman-reporter-allure.git"
+    "url": "https://github.com/dgodyna/newman-reporter-allure.git"
   },
-  "author": "Virender",
-  "license": "ISC",
+  "author": "dgodyna",
+  "license": "Apache 2.0",
   "dependencies": {
     "allure-js-commons": "^2.0.0-beta.6",
-    "lodash": "^4.17.15"
+    "lodash": "^4.17.15",
+    "newman": "^5.3.0"
   }
 }

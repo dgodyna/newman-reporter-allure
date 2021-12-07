@@ -3,7 +3,7 @@ A newman reporter for generating nice and clean report using Allure-js framework
 
 ## Installation
 ```console
-$ npm install -g newman-reporter-allure
+$ npm install -g github.com/dgodyna/newman-reporter-allure.git
 ```
 
 ## Usage
